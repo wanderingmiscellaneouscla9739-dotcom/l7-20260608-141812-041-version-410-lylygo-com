@@ -1,0 +1,19 @@
+{
+  "movie_count": 2000,
+  "video_url_count": 20,
+  "html_count": 2012,
+  "detail_count": 2000,
+  "category_counts": {
+    "国产电影": 254,
+    "最新国产剧": 254,
+    "口碑佳作": 254,
+    "高清片库": 254,
+    "悬疑惊悚": 255,
+    "爱情喜剧": 253,
+    "动作冒险": 255,
+    "综艺动漫": 221
+  },
+  "analytics_missing": [],
+  "zip_path": "/mnt/data/movie_static_site.zip",
+  "zip_size": 11329476
+}
